@@ -57,16 +57,17 @@ ol {
 }
 
 .logo {
-    color: #2E2F42;
+    color: #4D5AE5;
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
     letter-spacing: 0.03em;
+    text-transform: uppercase;
 }
 
 .logo-accent {
-    color: #4D5AE5;
+    color: #2E2F42;
 }
 
 .hero {
@@ -125,6 +126,7 @@ ol {
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
+    text-transform: capitalize;
 }
 
 .team-name {
@@ -153,6 +155,7 @@ ol {
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
+    text-transform: capitalize;
 }
 
 .portfolio-name {
@@ -185,6 +188,9 @@ ol {
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-.footer .logo {
+.footer .logo-accent {
     color: #F4F4FD;
+}
+.contacts {
+    font-style: normal;
 }

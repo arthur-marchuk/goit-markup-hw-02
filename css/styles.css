@@ -26,11 +26,8 @@ ol {
     line-height: 1.5;
     letter-spacing: 0.04em;
     border: none;
-    border-radius: 4px;
     cursor: pointer;
-    padding: 16px 32px;
-    display: block;
-    margin: 20px auto 0;
+    
 }
 
 .hero-button:hover,

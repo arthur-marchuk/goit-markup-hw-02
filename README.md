@@ -1,16 +1,16 @@
-# GoIT Markup Homework #2 — WebStudio
+# GoIT Homework 02 – WebStudio
 
-Вторая домашняя работа по курсу **HTML+CSS**.  
-Верстка страницы по макету с использованием HTML и CSS.
+This is the second homework project for the GoIT course.  
+The project includes semantic HTML markup and basic CSS styles according to the design guide.
 
-## 🔗 Ссылки
-
-- [Live page (GitHub Pages)](https://your-username.github.io/goit-markup-hw-02/)
-- [Репозиторий](https://github.com/your-username/goit-markup-hw-02)
-
-## ⚙️ Технологии
+## Technologies used
 
 - HTML5
 - CSS3
-- modern-normalize
-  > > > > > > > b92b6cf (Finish HW-02 project)
+- Google Fonts
+- Modern Normalize
+
+## Links
+
+- [GitHub Repository](https://github.com/arthur-marchuk/goit-markup-hw-02)
+- [Live Page (GitHub Pages)](https://arthur-marchuk.github.io/goit-markup-hw-02/)
